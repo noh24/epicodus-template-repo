@@ -1,5 +1,5 @@
 # Project Name
-By Brian Noh
+By Brian Noh  
 Epicodus Independent Project: 
 _Currently not deployed_: [Check out the project here](deployed.github.com)
 
